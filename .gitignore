@@ -1,0 +1,6 @@
+.openml_cache/
+.pytest_cache/
+.vscode/
+__pycache__/
+assignments/E02/.openml_cache/
+assignments/E02/tests/__pycache__/
